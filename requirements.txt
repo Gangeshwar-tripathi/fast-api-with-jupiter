@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+gunicorn
+psycopg2-binary
+pydantic
+alembic
+sqlalchemy
+pytest
+httpx
+python-dotenv
+pytest-asyncio>=0.21.0
+jupyterlab
